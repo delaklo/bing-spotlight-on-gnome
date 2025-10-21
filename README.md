@@ -1,6 +1,11 @@
+
+![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
+![GNOME](https://img.shields.io/badge/desktop-GNOME-blue.svg)
+
 # Bing Spotlight Wallpaper for GNOME
 
 Automatically download daily Bing wallpapers and set them as your GNOME desktop background. Made with Claude 3.5 Sonnet.
+
 
 ## Features
 
